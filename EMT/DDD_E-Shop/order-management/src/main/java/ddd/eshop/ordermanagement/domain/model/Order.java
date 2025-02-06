@@ -1,7 +1,6 @@
 package ddd.eshop.ordermanagement.domain.model;
 
-import ddd.eshop.ordermanagement.domain.model.valueobjects.Product;
-import ddd.eshop.ordermanagement.domain.model.valueobjects.ProductId;
+import ddd.eshop.ordermanagement.domain.valueobjects.Product;
 import ddd.eshop.sharedkernel.domain.base.AbstractEntity;
 import ddd.eshop.sharedkernel.domain.financial.Money;
 import jakarta.persistence.*;

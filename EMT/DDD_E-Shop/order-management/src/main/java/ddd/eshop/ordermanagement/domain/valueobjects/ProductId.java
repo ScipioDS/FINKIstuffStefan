@@ -1,8 +1,7 @@
-package ddd.eshop.ordermanagement.domain.model.valueobjects;
+package ddd.eshop.ordermanagement.domain.valueobjects;
 
 import ddd.eshop.sharedkernel.domain.base.DomainObjectId;
 import jakarta.persistence.Embeddable;
-import org.apache.kafka.common.protocol.types.Field;
 
 @Embeddable
 public class ProductId extends DomainObjectId {

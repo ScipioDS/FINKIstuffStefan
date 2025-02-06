@@ -1,4 +1,4 @@
-package ddd.eshop.ordermanagement.domain.model.valueobjects;
+package ddd.eshop.ordermanagement.domain.valueobjects;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import ddd.eshop.sharedkernel.domain.base.ValueObject;

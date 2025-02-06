@@ -1,8 +1,7 @@
 package ddd.eshop.ordermanagement.service.forms;
 
-import ddd.eshop.ordermanagement.domain.model.valueobjects.Product;
+import ddd.eshop.ordermanagement.domain.valueobjects.Product;
 import lombok.Data;
-import lombok.NonNull;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;

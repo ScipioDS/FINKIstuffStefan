@@ -1,4 +1,4 @@
-package ddd.eshop.ordermanagement.domain.model.repository;
+package ddd.eshop.ordermanagement.domain.repository;
 
 import ddd.eshop.ordermanagement.domain.model.Order;
 import ddd.eshop.ordermanagement.domain.model.OrderId;
