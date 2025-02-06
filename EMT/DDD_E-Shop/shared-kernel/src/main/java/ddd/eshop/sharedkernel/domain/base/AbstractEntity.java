@@ -3,10 +3,11 @@ package ddd.eshop.sharedkernel.domain.base;
 import io.micrometer.common.lang.NonNull;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.MappedSuperclass;
+import lombok.Getter;
 import org.springframework.data.util.ProxyUtils;
 
 import java.util.Objects;
-
+@Getter
 @MappedSuperclass
 public class AbstractEntity<ID extends DomainObjectId> {
 

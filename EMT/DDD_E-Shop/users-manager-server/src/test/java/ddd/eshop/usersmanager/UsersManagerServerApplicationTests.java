@@ -1,4 +1,4 @@
-package ddd.eshop.usersmanagerserver;
+package ddd.eshop.usersmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

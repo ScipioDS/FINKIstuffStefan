@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ddd.eshop</groupId>
-	<artifactId>users-manager-server</artifactId>
+	<artifactId>users-manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>users-manager-server</name>
 	<description>users-manager-server</description>
